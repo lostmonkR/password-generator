@@ -1,1 +1,2 @@
 # password-generator
+This homework is pretty hard for me, I did by my self only 20% then most of them but can not keep going, so I copy from the web https://stackoverflow.com/questions/59904757/random-password-generator-javascript-not-returning-password, I need to figur this out as soon as possible.
